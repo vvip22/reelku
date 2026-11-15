@@ -1,0 +1,6 @@
+{
+  "name": "ReelQuote Studio",
+  "description": "Generator video quotes bahasa Inggris untuk Facebook Reels dengan narasi suara wanita AI, subtitle dinamis 1080p MP4, font kustom, dan musik latar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
